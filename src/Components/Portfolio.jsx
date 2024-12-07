@@ -1,12 +1,6 @@
-/**
- * Portfolio component
- *
- * Highlights some of your creations, showcasing your projects with a modern design.
- */
 
 import React from "react";
 
-// Updated project list with proper links
 const projectList = [
   {
     title: "Quizburst",

@@ -6,7 +6,7 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 
-import "./styles.css";
+import "./index.css";
 
 
 const siteProps = {
