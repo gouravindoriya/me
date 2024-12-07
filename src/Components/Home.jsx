@@ -29,14 +29,6 @@ const Home = ({ name, title }) => {
   );
 };
 
-Home.defaultProps = {
-  name: "",
-  title: "",
-};
 
-Home.propTypes = {
-  name: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
-};
 
 export default Home;
